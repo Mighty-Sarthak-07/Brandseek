@@ -21,10 +21,18 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sarthak07.Brandseek"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "sdkVersion": "48.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "00301575-359b-4131-bc7e-ed10951dfd80"
+      }
+    },
+    "owner": "sarthak07"
   }
 }
